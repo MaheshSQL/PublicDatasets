@@ -17,7 +17,7 @@ Hotel Reviews
 
 -Full reviews of hotels in 10 different cities (Dubai, Beijing, London, New York City, New Delhi, San Francisco, Shanghai, Montreal, Las Vegas, Chicago) -There are about 80-700 hotels in each city -Extracted fields include date, review title and the full review -Total number of reviews: ~259,000
 
-### Time Series Forecasting
+## Time Series Forecasting
 
 Ground Level Ozone
 
