@@ -28,14 +28,13 @@ https://data-donnees.ec.gc.ca/data/air/monitor/monitoring-of-atmospheric-gases/g
 
 Ground level ozone measurements, sometimes referred to as in situ measurements are those measurements that occur close to the ground, i.e. within the boundary layer which is approximately 1 kilometre in height. Ongoing network measurements from the Canadian Air and Precipitation Monitoring Network (CAPMoN). Reading at hourly interval, each CSV file contains data for one calendar year. There is lot of metadata and reading site master data into the same file.
 
-## Time Series Forecasting
+## Deep Learning
 
-Stallion
+Conservation Datasets
 
 #### Dataset Source
-https://www.kaggle.com/utathya/future-volume-prediction
+https://lila.science/otherdatasets#images
 
 #### Dataset Information
 
-Beverage sales by SKU and Agency for demand forecasting.
-
+Separate datasets for - wildlife, birds, flowers, dogs, fish.
