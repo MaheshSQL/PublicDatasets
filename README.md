@@ -17,7 +17,7 @@ Hotel Reviews
 
 -Full reviews of hotels in 10 different cities (Dubai, Beijing, London, New York City, New Delhi, San Francisco, Shanghai, Montreal, Las Vegas, Chicago) -There are about 80-700 hotels in each city -Extracted fields include date, review title and the full review -Total number of reviews: ~259,000
 
-## Time Series Forecasting
+## Time Series
 
 Ground Level Ozone
 
@@ -27,6 +27,22 @@ https://data-donnees.ec.gc.ca/data/air/monitor/monitoring-of-atmospheric-gases/g
 #### Dataset Information
 
 Ground level ozone measurements, sometimes referred to as in situ measurements are those measurements that occur close to the ground, i.e. within the boundary layer which is approximately 1 kilometre in height. Ongoing network measurements from the Canadian Air and Precipitation Monitoring Network (CAPMoN). Reading at hourly interval, each CSV file contains data for one calendar year. There is lot of metadata and reading site master data into the same file.
+
+## Regression/Classification
+
+NYC Taxi and Limousine Commission (TLC)
+
+#### Dataset Source
+https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+#### Dataset Information
+
+Yellow and Green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP). The trip data was not created by the TLC, and TLC makes no representations as to the accuracy of these data.
+
+Data availability - From year 2009
+Format - Parquet (for years >=2015)
+Frequency - Monthly
+Dictionary available - Yes
 
 ## Deep Learning
 
